@@ -41,6 +41,7 @@ class TestCaseServerORM(Resource):
         else:
             case_data = TestCase.query.all()
             testcases = [i.as_dict() for i in case_data]
+            print(testcases)
         return {"data": testcases}
 
     # 如果是post请求，认为是去新增case
