@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20492d05-6ee1-40dd-a69a-408b3957fb77" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="147527020">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="8" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="README" value="1" />
+          <entry key="css" value="3" />
+          <entry key="html" value="3" />
+          <entry key="ini" value="2" />
+          <entry key="jpg" value="1" />
+          <entry key="js" value="4" />
+          <entry key="mako" value="1" />
+          <entry key="map" value="1" />
+          <entry key="py" value="76" />
+          <entry key="some_txt" value="1" />
+          <entry key="txt" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="3" />
+          <entry key="HTML" value="3" />
+          <entry key="Image" value="1" />
+          <entry key="JavaScript" value="4" />
+          <entry key="PLAIN_TEXT" value="10" />
+          <entry key="Python" value="76" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="79" />
+          <entry key="py" value="2754" />
+          <entry key="txt" value="75" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="154" />
+          <entry key="Python" value="2754" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ruyu_testplane/testplane.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="230" lean-forward="true" selection-start-line="230" selection-end-line="230" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ruyu_testplane/migrations/migrate.ini" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/migrations/env.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/aa2.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/migrations/versions/b86354bace64_test_version.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/aa1.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/aa3.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/app1.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/app2.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/app3.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/app4.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/app5.py" />
+        <option value="$PROJECT_DIR$/app6.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/duck_1.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ABC_abstractmethod.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/type_ie1.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/varies_ie1.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/method_ie1.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/MRO_ie1.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/Mixin_ie1.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ie_Mixin_1.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ie_privateproperty.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ie_introspection.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ie_super.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/test.txt" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/plan.txt.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/plan.txt" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ie_context_with.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ie_zhuangshiqi.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ie_sort_selfdefine.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ie_metaclass.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ie_property.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ie_type_1.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/ie_duck.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/aa1_Temp.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/aa2_post.py" />
+        <option value="$PROJECT_DIR$/ruyu_testplane/testplane.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-2553" />
+    <option name="y" value="-169" />
+    <option name="width" value="1110" />
+    <option name="height" value="1396" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyCompatibilityInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ruyu_testplane" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruyu_testplane" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ruyu_testplane" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ruyu_testplane" type="462c0819:PsiDirectoryNode" />
+              <item name="ruyu_testplane" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ruyu_testplane\ruyu_testplane" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testplane">
+    <configuration name="aa1_Temp" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ruyu_testplane" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ruyu_testplane" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ruyu_testplane/aa1_Temp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aa2_post" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ruyu_testplane" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ruyu_testplane" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ruyu_testplane/aa2_post.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ie_introspection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ruyu_testplane" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ruyu_testplane" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ruyu_testplane/ie_introspection.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ie_property" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ruyu_testplane" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ruyu_testplane" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ruyu_testplane/ie_property.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testplane" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ruyu_testplane" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ruyu_testplane" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ruyu_testplane/testplane.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.ie_property" />
+      <item itemvalue="Python.ie_introspection" />
+      <item itemvalue="Python.testplane" />
+      <item itemvalue="Python.aa2_post" />
+      <item itemvalue="Python.aa1_Temp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testplane" />
+        <item itemvalue="Python.aa2_post" />
+        <item itemvalue="Python.aa1_Temp" />
+        <item itemvalue="Python.ie_introspection" />
+        <item itemvalue="Python.ie_property" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20492d05-6ee1-40dd-a69a-408b3957fb77" name="Default Changelist" comment="" />
+      <created>1692861100183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1692861100183</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ruyu_testplane,first commit at 20230831">
+      <created>1693475195034</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693475195035</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-2553" y="-169" width="1110" height="1396" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36847016" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32977912" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21580672" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3996724" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.6699427" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="9" side_tool="true" visible="true" weight="0.3298969" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ruyu_testplane,first commit at 20230831" />
+    <option name="LAST_COMMIT_MESSAGE" value="ruyu_testplane,first commit at 20230831" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/templates/login.html" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/app3.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/templates/index.html" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/templates/base.html" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/static/css/style-index.css" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/static/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/static/css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/static/images/bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/static/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/static/js/popper.js" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/static/js/jquery.min.js" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/static/js/bootstrap.min.js.map" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/static/js/bootstrap.min.js" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/app4.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/app5.py" />
+    <entry file="file://$PROJECT_DIR$/app6.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_method_1.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_Mixin_1.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_privateproperty.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_MRO_1.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_super.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/some_txt" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/plan.txt.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/test.txt" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/plan.txt" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_zhuangshiqi.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_metaclass.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_property.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_context_with.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_varies_1.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_type_1.py" />
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-193196300/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121220">
+          <caret line="5510" column="8" selection-start-line="5510" selection-start-column="8" selection-end-line="5510" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_duck.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_ABC_abstractmethod.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14850">
+          <caret line="744" column="33" lean-forward="true" selection-start-line="744" selection-start-column="33" selection-end-line="744" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_introspection.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/ie_sort_selfdefine.py" />
+    <entry file="file://E:/LearningSelenium/venv/Lib/site-packages/flask/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="106" selection-start-line="106" selection-end-line="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/LearningSelenium/venv/Lib/site-packages/flask_restful/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="488" selection-start-line="488" selection-end-line="488" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/LearningSelenium/venv/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1227">
+          <caret line="2551" selection-start-line="2551" selection-end-line="2551" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/LearningSelenium/venv/Lib/site-packages/werkzeug/debug/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="804">
+          <caret line="340" selection-start-line="340" selection-end-line="340" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/aa1_Temp.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/aa3.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/app2.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/app1.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/aa2_post.py" />
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/aa1.py" />
+    <entry file="file://E:/LearningSelenium/venv/Lib/site-packages/werkzeug/serving.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="360" selection-start-line="360" selection-end-line="360" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/socketserver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="356" selection-start-line="356" selection-end-line="356" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python/Lib/http/server.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1218">
+          <caret line="425" selection-start-line="425" selection-end-line="425" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ruyu_testplane/testplane.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="230" lean-forward="true" selection-start-line="230" selection-end-line="230" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
